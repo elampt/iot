@@ -1,0 +1,2 @@
+Autonomous Delivery Robot: 
+We have desgined an Autonomous Delivery Robot which can be used to deliver food/grocery and other items from one location to another without any human interference. In the Web User interface that we have created, the user who is ordering a shipment mentions the pickup point and delivery point and this data will generate the shortest path from the start and end point. The shortest path will be retrieved from DynamoDB in the AWS and will be sent to the robot and the robot will reach the delivery point following this particular path. 
